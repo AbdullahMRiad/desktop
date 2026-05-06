@@ -56,8 +56,7 @@
     "type": "phabricator",
     "ids": [
       "D247145",
-      "D247215",
-      "D247217"
+      "D298708"
     ],
     "name": "Session store use size hint"
   },
